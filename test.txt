@@ -4,3 +4,4 @@ I think Doker will be the next topic
 
 I am fully committed to this training.
 this is devops
+github is a big part of devops
