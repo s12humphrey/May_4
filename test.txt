@@ -3,3 +3,4 @@ We are moving very fast with devops
 I think Doker will be the next topic
 
 I am fully committed to this training.
+this is devops
